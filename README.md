@@ -2,11 +2,11 @@
 <h3 align="center"> I’m Youssef, A Fullstack web developer who admires technology</h3>
 
 <p align="center">
-- I’m currently working as a freelancer on Fiverr [Visit me there 😊](https://www.fiverr.com/youssefmos?up_rollout=true)
+- I’m currently working as a freelancer on Fiverr <a href="https://www.fiverr.com/youssefmos?up_rollout=true">Visit me there 😊</a>
 </p>
 
 <p align="center">
-- 🌱 I’m currently exploring the **web3 lands**
+- 🌱 I’m currently exploring the web3 lands
 </p>
 
 
