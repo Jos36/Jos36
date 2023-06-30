@@ -2,7 +2,7 @@
 <h3 align="center"> I’m Youssef, A Fullstack web developer who admires technology</h3>
 
 <p align="center">
-- I’m currently working as a freelancer on Fiverr <a href="https://www.fiverr.com/youssefmos?up_rollout=true" target="_blank" rel="noreferrer">Visit me there 😊</a>
+- I’m currently working as a freelancer on Fiverr <a href="https://www.fiverr.com/youssefmos" target="_blank" rel="noreferrer">Visit me there 😊</a>
 </p>
 
 <p align="center">
