@@ -5,9 +5,7 @@
 - I’m currently working as a freelancer on Fiverr <a href="https://www.fiverr.com/youssefmos" target="_blank" rel="noreferrer">Visit me there 😊</a>
 </p>
 
-<p align="center">
-- 🌱 I’m currently exploring the web3 lands
-</p>
+
 
 
 
